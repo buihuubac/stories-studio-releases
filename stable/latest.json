@@ -1,17 +1,17 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v1.0.25.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.25/Stories-Studio-Setup-v1.0.25.exe",
-    "sha256": "ca6f37ec16e632da849c57b2767202c845c28eb7d2e61bae1b0206f530ccd7ef",
-    "size": 322123102
+    "name": "Stories-Studio-Setup-v1.0.26.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.26/Stories-Studio-Setup-v1.0.26.exe",
+    "sha256": "c05caa79d598e100c4a37adab66c8ec780f74de4ce959031165304fcea74b764",
+    "size": 322145290
   },
   "notes": [
-    "Ứng dụng tự báo khi có bản mới",
-    "Tạo nhiều ảnh một lúc không còn bị nhà cung cấp chặn",
-    "Chọn ChatGPT là dùng được trọn vẹn phần Viết kịch bản"
+    "Máy mới cài xong là dùng được ChatGPT ngay, không phải cài gì bằng tay",
+    "Claude dùng được ngay, không phải tải thêm",
+    "Sửa vài lỗi nhỏ của bản trước"
   ],
-  "published_at": "2026-09-20T09:32:38+00:00",
+  "published_at": "2026-09-20T15:37:37+00:00",
   "mandatory": false
 }
