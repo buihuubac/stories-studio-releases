@@ -1,17 +1,18 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v1.0.26.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.26/Stories-Studio-Setup-v1.0.26.exe",
-    "sha256": "c05caa79d598e100c4a37adab66c8ec780f74de4ce959031165304fcea74b764",
-    "size": 322145290
+    "name": "Stories-Studio-Setup-v1.0.27.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.27/Stories-Studio-Setup-v1.0.27.exe",
+    "sha256": "b15e6d78819ae7af227016558a0979fc6bc6bbd0c59a0b73e891bab4a2d6cdcb",
+    "size": 323614657
   },
   "notes": [
-    "Máy mới cài xong là dùng được ChatGPT ngay, không phải cài gì bằng tay",
-    "Claude dùng được ngay, không phải tải thêm",
-    "Sửa vài lỗi nhỏ của bản trước"
+    "Sửa lỗi Cài đặt báo Đã kết nối mà không gọi được ChatGPT/Claude",
+    "Viết kịch bản: truyện còn lỗi không còn bị báo Hoàn tất, nói rõ lỗi ở đâu",
+    "Series: nền tảng AI hiển thị và chạy đúng như đã chọn",
+    "Từ bản này app tự báo khi có phiên bản mới"
   ],
-  "published_at": "2026-09-20T15:37:37+00:00",
+  "published_at": "2026-09-22T08:34:17+00:00",
   "mandatory": false
 }
