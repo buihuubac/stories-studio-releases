@@ -1,20 +1,20 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v1.0.28.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.28/Stories-Studio-Setup-v1.0.28.exe",
-    "sha256": "6daa14375cde8cdc577f9f9e1dd7a178a75d90e5130726f4f7ad2207a8f0caae",
-    "size": 323615289
+    "name": "Stories-Studio-Setup-v1.0.29.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.29/Stories-Studio-Setup-v1.0.29.exe",
+    "sha256": "7bcc342da2c33c4e0b864351342ed0c0f107c08ad761278607982441dc907f96",
+    "size": 323629852
   },
   "notes": [
-    "Tự động thông báo khi có phiên bản Stories Studio mới",
-    "Có thể chọn Cập nhật ngay hoặc Để sau",
-    "Sửa lỗi cập nhật có thể đóng ứng dụng mà không hoàn tất cài đặt",
-    "Cải thiện tải cập nhật khi mạng hoặc DNS không ổn định",
-    "Thông báo lỗi cập nhật dễ hiểu hơn, có Thử lại và Tải thủ công",
-    "Tăng độ an toàn và ổn định của quá trình cập nhật"
+    "Đăng nhập Claude xong là tự nhận kết nối, không còn kẹt \"Đang đăng nhập…\"",
+    "ChatGPT: mở lại Cài đặt vẫn thấy tiến độ chuẩn bị đang chạy",
+    "API tùy chỉnh: cấu hình có bản dự phòng, xoá kết nối cuối cùng không sống lại",
+    "Viết kịch bản: Dừng / Tạm dừng / Tiếp tục, xoá truyện an toàn",
+    "\"Viết lại / Sửa lỗi\" và \"AI phản biện\" kiểm nền tảng TRƯỚC khi gọi AI",
+    "An toàn: không ghi Authorization/cookie vào tệp chẩn đoán"
   ],
-  "published_at": "2026-09-22T14:56:08+00:00",
+  "published_at": "2026-09-23T05:45:05+00:00",
   "mandatory": false
 }
