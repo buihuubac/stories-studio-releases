@@ -1,20 +1,20 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v1.0.29.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.29/Stories-Studio-Setup-v1.0.29.exe",
-    "sha256": "7bcc342da2c33c4e0b864351342ed0c0f107c08ad761278607982441dc907f96",
-    "size": 323629852
+    "name": "Stories-Studio-Setup-v1.0.30.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.30/Stories-Studio-Setup-v1.0.30.exe",
+    "sha256": "fa1ce8639aba3454686454141d61ffcd25447f0efc7bc2219d7b751be373425c",
+    "size": 323665986
   },
   "notes": [
-    "Đăng nhập Claude xong là tự nhận kết nối, không còn kẹt \"Đang đăng nhập…\"",
-    "ChatGPT: mở lại Cài đặt vẫn thấy tiến độ chuẩn bị đang chạy",
-    "API tùy chỉnh: cấu hình có bản dự phòng, xoá kết nối cuối cùng không sống lại",
-    "Viết kịch bản: Dừng / Tạm dừng / Tiếp tục, xoá truyện an toàn",
-    "\"Viết lại / Sửa lỗi\" và \"AI phản biện\" kiểm nền tảng TRƯỚC khi gọi AI",
-    "An toàn: không ghi Authorization/cookie vào tệp chẩn đoán"
+    "Đăng nhập Claude trên máy mới: mở cửa sổ Claude thật; nếu web hiện mã thì dán vào cửa sổ đó",
+    "Đăng nhập xong app tự chuyển sang \"Đã kết nối\", bấm nhiều lần không mở nhiều cửa sổ",
+    "Một truyện chỉ còn MỘT trạng thái: danh sách và trang chi tiết luôn nói cùng một điều",
+    "\"Viết 5/5 · 100%\" chỉ nghĩa là đã viết đủ phần, không có nghĩa là đã kiểm và đạt",
+    "Người viết nay nhìn thấy \"ai biết gì\" - trước đây thông tin này bị bỏ rơi giữa đường",
+    "Soát cả truyện thật sự chặn nhãn \"Hoàn tất\" khi còn mâu thuẫn nặng xuyên phần"
   ],
-  "published_at": "2026-09-23T05:45:05+00:00",
+  "published_at": "2026-09-23T12:28:56+00:00",
   "mandatory": false
 }
