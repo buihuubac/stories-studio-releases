@@ -1,20 +1,15 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.31",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v1.0.30.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.30/Stories-Studio-Setup-v1.0.30.exe",
-    "sha256": "fa1ce8639aba3454686454141d61ffcd25447f0efc7bc2219d7b751be373425c",
-    "size": 323665986
+    "name": "Stories-Studio-Setup-v1.0.31.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.31/Stories-Studio-Setup-v1.0.31.exe",
+    "sha256": "a070761037485cdd9ea4160a1924b68d8e994369ae0c23830cf822a47708cf1e",
+    "size": 323649006
   },
   "notes": [
-    "Đăng nhập Claude trên máy mới: mở cửa sổ Claude thật; nếu web hiện mã thì dán vào cửa sổ đó",
-    "Đăng nhập xong app tự chuyển sang \"Đã kết nối\", bấm nhiều lần không mở nhiều cửa sổ",
-    "Một truyện chỉ còn MỘT trạng thái: danh sách và trang chi tiết luôn nói cùng một điều",
-    "\"Viết 5/5 · 100%\" chỉ nghĩa là đã viết đủ phần, không có nghĩa là đã kiểm và đạt",
-    "Người viết nay nhìn thấy \"ai biết gì\" - trước đây thông tin này bị bỏ rơi giữa đường",
-    "Soát cả truyện thật sự chặn nhãn \"Hoàn tất\" khi còn mâu thuẫn nặng xuyên phần"
+    "Sửa đăng nhập Claude và ChatGPT trên máy khách: mở đúng công cụ dòng lệnh khi đường dẫn có dấu cách, và dùng đúng công cụ giải nén của Windows khi cài ChatGPT."
   ],
-  "published_at": "2026-09-23T12:28:56+00:00",
+  "published_at": "2026-09-24T04:06:10+00:00",
   "mandatory": false
 }
