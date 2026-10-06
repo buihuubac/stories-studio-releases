@@ -1,15 +1,21 @@
 {
-  "version": "1.0.31",
+  "version": "3.0.32",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v1.0.31.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v1.0.31/Stories-Studio-Setup-v1.0.31.exe",
-    "sha256": "a070761037485cdd9ea4160a1924b68d8e994369ae0c23830cf822a47708cf1e",
-    "size": 323649006
+    "name": "Stories-Studio-Setup-v3.0.32.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.32/Stories-Studio-Setup-v3.0.32.exe",
+    "sha256": "d9174d33d6acfaaca8d29292e2d00e9271005ee089f5ff0b6bad0211311bffd0",
+    "size": 449481470
   },
   "notes": [
-    "Sửa đăng nhập Claude và ChatGPT trên máy khách: mở đúng công cụ dòng lệnh khi đường dẫn có dấu cách, và dùng đúng công cụ giải nén của Windows khi cài ChatGPT."
+    "Kho mẫu: app học cách kể từ chính những video bạn đưa vào, chia theo từng mảng và từng nước.",
+    "Truyện series viết được tám thể loại; bài lịch sử, sức khỏe, tài chính, khoa học đi qua bước đối chiếu dữ kiện.",
+    "Vòng duyệt cuối: truyện được đọc lại và viết lại đúng chỗ chưa đạt, tối đa ba vòng.",
+    "Tạo Prompts: mỗi nhân vật chỉ được nhắc một lần kèm đủ ngoại hình và trang phục của cảnh đó; người không có trong cảnh không xuất hiện.",
+    "Tạo Ảnh & Video: ảnh lưu đúng thư mục bạn chọn; bấm Chạy không làm lại các dòng đã Hoàn tất; nút mở thư mục mở đúng chỗ.",
+    "Vẽ bằng GPT Image 2 ra ảnh thật, xong lô là đóng trình duyệt, và thư mục ảnh của bạn chỉ còn ảnh.",
+    "Auto Drama và Dọn dẹp Media đang mở miễn phí."
   ],
-  "published_at": "2026-09-24T04:06:10+00:00",
+  "published_at": "2026-10-06T15:35:42+00:00",
   "mandatory": false
 }
