@@ -1,21 +1,20 @@
 {
-  "version": "3.0.32",
+  "version": "3.0.33",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.32.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.32/Stories-Studio-Setup-v3.0.32.exe",
-    "sha256": "d9174d33d6acfaaca8d29292e2d00e9271005ee089f5ff0b6bad0211311bffd0",
-    "size": 449481470
+    "name": "Stories-Studio-Setup-v3.0.33.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.33/Stories-Studio-Setup-v3.0.33.exe",
+    "sha256": "9b9821c14206046907fa459afd74b228f0cd1938ef06a1c91790a6da14323a89",
+    "size": 449487783
   },
   "notes": [
-    "Kho mẫu: app học cách kể từ chính những video bạn đưa vào, chia theo từng mảng và từng nước.",
-    "Truyện series viết được tám thể loại; bài lịch sử, sức khỏe, tài chính, khoa học đi qua bước đối chiếu dữ kiện.",
-    "Vòng duyệt cuối: truyện được đọc lại và viết lại đúng chỗ chưa đạt, tối đa ba vòng.",
-    "Tạo Prompts: mỗi nhân vật chỉ được nhắc một lần kèm đủ ngoại hình và trang phục của cảnh đó; người không có trong cảnh không xuất hiện.",
-    "Tạo Ảnh & Video: ảnh lưu đúng thư mục bạn chọn; bấm Chạy không làm lại các dòng đã Hoàn tất; nút mở thư mục mở đúng chỗ.",
-    "Vẽ bằng GPT Image 2 ra ảnh thật, xong lô là đóng trình duyệt, và thư mục ảnh của bạn chỉ còn ảnh.",
-    "Auto Drama và Dọn dẹp Media đang mở miễn phí."
+    "Ảnh không còn hỏng giữa chừng khi chạy lô lớn: trình duyệt không bị đóng khi còn dòng đang vẽ, mất kết nối thì tự mở lại phiên.",
+    "Dòng chưa tới lượt được giao tài khoản thì nằm chờ, không bị đánh là Lỗi.",
+    "Dòng 'Cần xác minh' tự mở lại đúng dự án đã gửi trên Flow để kiểm, có ảnh thì tải về, chưa có thì tự gửi lại.",
+    "Mỗi cảnh chỉ còn đúng một ảnh: vẽ lại bằng Flow hay GPT Image 2 đều ghi đè ảnh cũ, không còn tệp __prev.",
+    "Ảnh lưu đúng ô Thư mục lưu; các mục khác không còn tự đổi ô đó.",
+    "Mọi bước mở trình duyệt, gửi lệnh vẽ, tải ảnh được ghi vào nhật ký riêng của app, không nằm lẫn trong thư mục ảnh."
   ],
-  "published_at": "2026-10-06T15:35:42+00:00",
+  "published_at": "2026-10-09T05:08:12+00:00",
   "mandatory": false
 }
