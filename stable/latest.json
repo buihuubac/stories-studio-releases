@@ -1,20 +1,20 @@
 {
-  "version": "3.0.33",
+  "version": "3.0.36",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.33.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.33/Stories-Studio-Setup-v3.0.33.exe",
-    "sha256": "9b9821c14206046907fa459afd74b228f0cd1938ef06a1c91790a6da14323a89",
-    "size": 449487783
+    "name": "Stories-Studio-Setup-v3.0.36.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.36/Stories-Studio-Setup-v3.0.36.exe",
+    "sha256": "2da33026419c2239af8aa45b4ef953b5bb3b2b90da97eaa7c0aada2a4eab9a6a",
+    "size": 446728342
   },
   "notes": [
-    "Ảnh không còn hỏng giữa chừng khi chạy lô lớn: trình duyệt không bị đóng khi còn dòng đang vẽ, mất kết nối thì tự mở lại phiên.",
-    "Dòng chưa tới lượt được giao tài khoản thì nằm chờ, không bị đánh là Lỗi.",
-    "Dòng 'Cần xác minh' tự mở lại đúng dự án đã gửi trên Flow để kiểm, có ảnh thì tải về, chưa có thì tự gửi lại.",
-    "Mỗi cảnh chỉ còn đúng một ảnh: vẽ lại bằng Flow hay GPT Image 2 đều ghi đè ảnh cũ, không còn tệp __prev.",
-    "Ảnh lưu đúng ô Thư mục lưu; các mục khác không còn tự đổi ô đó.",
-    "Mọi bước mở trình duyệt, gửi lệnh vẽ, tải ảnh được ghi vào nhật ký riêng của app, không nằm lẫn trong thư mục ảnh."
+    "Giọng đọc Edge chạy lại sau khi Microsoft đổi cách xác thực ngày 13/10: máy đang ở thư viện cũ thì ứng dụng tự nâng cấp rồi đọc tiếp, không phải cài gì thêm.",
+    "Danh sách giọng không còn trống trên máy bản cũ; mất mạng thì vẫn có 56 giọng dựng sẵn để làm việc.",
+    "Auto Film chạy một mạch từ chia đoạn đến ra MP4, kèm bước Dọn Dẹp Media chạy ngầm theo đúng vùng và công cụ đã lưu.",
+    "Xem phim ngay trong ứng dụng, tua được tới bất kỳ đoạn nào mà không phải tải hết.",
+    "Mất kết nối với máy chủ nền không còn hiện dòng lỗi khó hiểu: màn hình báo đang kết nối lại, giữ nguyên số liệu và tự chạy tiếp.",
+    "Ô tín dụng Flow nói rõ khi con số đang hiển là của lần đọc trước, kèm thời điểm đọc thành công gần nhất."
   ],
-  "published_at": "2026-10-09T05:08:12+00:00",
+  "published_at": "2026-10-15T12:17:38+00:00",
   "mandatory": false
 }
