@@ -1,20 +1,17 @@
 {
-  "version": "3.0.36",
+  "version": "3.0.37",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.36.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.36/Stories-Studio-Setup-v3.0.36.exe",
-    "sha256": "2da33026419c2239af8aa45b4ef953b5bb3b2b90da97eaa7c0aada2a4eab9a6a",
-    "size": 446728342
+    "name": "Stories-Studio-Setup-v3.0.37.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.37/Stories-Studio-Setup-v3.0.37.exe",
+    "sha256": "9e7ccbab67b41db18574484983f75e53b7bad742c88c9b42503526d806e62405",
+    "size": 446705269
   },
   "notes": [
-    "Giọng đọc Edge chạy lại sau khi Microsoft đổi cách xác thực ngày 13/10: máy đang ở thư viện cũ thì ứng dụng tự nâng cấp rồi đọc tiếp, không phải cài gì thêm.",
-    "Danh sách giọng không còn trống trên máy bản cũ; mất mạng thì vẫn có 56 giọng dựng sẵn để làm việc.",
-    "Auto Film chạy một mạch từ chia đoạn đến ra MP4, kèm bước Dọn Dẹp Media chạy ngầm theo đúng vùng và công cụ đã lưu.",
-    "Xem phim ngay trong ứng dụng, tua được tới bất kỳ đoạn nào mà không phải tải hết.",
-    "Mất kết nối với máy chủ nền không còn hiện dòng lỗi khó hiểu: màn hình báo đang kết nối lại, giữ nguyên số liệu và tự chạy tiếp.",
-    "Ô tín dụng Flow nói rõ khi con số đang hiển là của lần đọc trước, kèm thời điểm đọc thành công gần nhất."
+    "Ảnh Flow lưu đúng thư mục đã chọn: trước đây hàng đợi ghi nhớ thư mục ngay lúc gõ prompt — khi đó ô Thư mục lưu thường còn trống — nên chọn thư mục sau đó không tới được những hàng đã nằm trong hàng đợi.",
+    "Thư mục không ghi được thì báo ngay trước khi gửi, không tạo ảnh xong mới báo lỗi, và không bao giờ tự lưu sang chỗ khác.",
+    "Đăng nhập Claude xong là nhận ra ngay: máy nào Claude CLI cất phiên ở chỗ khác thì trước đây phần mềm treo mãi ở \"Đang chờ đăng nhập\" dù đăng nhập đã xong thật."
   ],
-  "published_at": "2026-10-15T12:17:38+00:00",
+  "published_at": "2026-10-15T14:56:35+00:00",
   "mandatory": false
 }
