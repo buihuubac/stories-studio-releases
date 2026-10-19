@@ -1,17 +1,18 @@
 {
-  "version": "3.0.37",
+  "version": "3.0.38",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.37.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.37/Stories-Studio-Setup-v3.0.37.exe",
-    "sha256": "9e7ccbab67b41db18574484983f75e53b7bad742c88c9b42503526d806e62405",
-    "size": 446705269
+    "name": "Stories-Studio-Setup-v3.0.38.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.38/Stories-Studio-Setup-v3.0.38.exe",
+    "sha256": "4c587cbea00c84a3a12b14efaffcdfa05426e07be76d5de99011dcd688b6a45a",
+    "size": 446798013
   },
   "notes": [
-    "Ảnh Flow lưu đúng thư mục đã chọn: trước đây hàng đợi ghi nhớ thư mục ngay lúc gõ prompt — khi đó ô Thư mục lưu thường còn trống — nên chọn thư mục sau đó không tới được những hàng đã nằm trong hàng đợi.",
-    "Thư mục không ghi được thì báo ngay trước khi gửi, không tạo ảnh xong mới báo lỗi, và không bao giờ tự lưu sang chỗ khác.",
-    "Đăng nhập Claude xong là nhận ra ngay: máy nào Claude CLI cất phiên ở chỗ khác thì trước đây phần mềm treo mãi ở \"Đang chờ đăng nhập\" dù đăng nhập đã xong thật."
+    "Auto Film gộp thành một màn hình: chọn Một tập hoặc Nhiều tập rồi bấm TẠO PHIM TỰ ĐỘNG một lần, phần mềm làm lần lượt từng tập và mỗi tập có ảnh bìa YouTube 1280x720 riêng.",
+    "Dừng giữa chừng, đóng app rồi mở lại vẫn chạy tiếp đúng chỗ cũ; tập đã xong không bị làm lại, và ảnh bìa hỏng thì chỉ làm lại ảnh bìa chứ không dựng lại cả phim.",
+    "Dựng phim hiện tiến độ thật: phần trăm, khối đang làm, tốc độ và thời gian còn lại; bản phim chỉ được báo xong sau khi giải mã sạch, không còn báo hoàn thành khi tệp hỏng.",
+    "Tài khoản Flow không còn kẹt ở 'Đang làm mới...', và trình phát luôn nạp đúng bản phim mới nhất."
   ],
-  "published_at": "2026-10-15T14:56:35+00:00",
+  "published_at": "2026-10-19T04:42:23+00:00",
   "mandatory": false
 }
