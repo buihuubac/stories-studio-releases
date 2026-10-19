@@ -1,18 +1,18 @@
 {
-  "version": "3.0.38",
+  "version": "3.0.39",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.38.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.38/Stories-Studio-Setup-v3.0.38.exe",
-    "sha256": "4c587cbea00c84a3a12b14efaffcdfa05426e07be76d5de99011dcd688b6a45a",
-    "size": 446798013
+    "name": "Stories-Studio-Setup-v3.0.39.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.39/Stories-Studio-Setup-v3.0.39.exe",
+    "sha256": "46f5b50d48b68761434852937986858f9255502fb8a1683241f24e1873586314",
+    "size": 446789413
   },
   "notes": [
-    "Auto Film gộp thành một màn hình: chọn Một tập hoặc Nhiều tập rồi bấm TẠO PHIM TỰ ĐỘNG một lần, phần mềm làm lần lượt từng tập và mỗi tập có ảnh bìa YouTube 1280x720 riêng.",
-    "Dừng giữa chừng, đóng app rồi mở lại vẫn chạy tiếp đúng chỗ cũ; tập đã xong không bị làm lại, và ảnh bìa hỏng thì chỉ làm lại ảnh bìa chứ không dựng lại cả phim.",
-    "Dựng phim hiện tiến độ thật: phần trăm, khối đang làm, tốc độ và thời gian còn lại; bản phim chỉ được báo xong sau khi giải mã sạch, không còn báo hoàn thành khi tệp hỏng.",
-    "Tài khoản Flow không còn kẹt ở 'Đang làm mới...', và trình phát luôn nạp đúng bản phim mới nhất."
+    "Auto Film tự chạy một mạch: bấm TẠO PHIM TỰ ĐỘNG một lần, phần mềm tự đi hết từ chia đoạn đến dựng phim. Đóng app rồi mở lại thì phim đang làm tự chạy tiếp, không phải bấm lại.",
+    "Một vài cảnh vẽ mãi không ra thì được gác lại để làm tiếp những cảnh khác rồi quay lại sau — một cảnh khó không còn dừng cả phim.",
+    "Tài khoản Flow hỏng liên tiếp được nghỉ một lát rồi tự nhận việc lại, không phải tắt bật app. Làm mới tài khoản nhanh hơn hẳn: bỏ hai khoảng chờ cho những thứ Google đã ngừng trả.",
+    "Tên thư mục có ký tự Windows không cho phép thì báo ngay lúc chọn và chỉ đúng ký tự sai, thay vì chạy một lúc rồi báo một câu tiếng Anh khó hiểu."
   ],
-  "published_at": "2026-10-19T04:42:23+00:00",
+  "published_at": "2026-10-19T15:37:55+00:00",
   "mandatory": false
 }
