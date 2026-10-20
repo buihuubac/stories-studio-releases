@@ -1,18 +1,18 @@
 {
-  "version": "3.0.39",
+  "version": "3.0.40",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.39.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.39/Stories-Studio-Setup-v3.0.39.exe",
-    "sha256": "46f5b50d48b68761434852937986858f9255502fb8a1683241f24e1873586314",
-    "size": 446789413
+    "name": "Stories-Studio-Setup-v3.0.40.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.40/Stories-Studio-Setup-v3.0.40.exe",
+    "sha256": "a27197c8d218e385449e23bd3ae0b40e27eb60deda9ae9d011beb547fd5de8d3",
+    "size": 446778739
   },
   "notes": [
-    "Auto Film tự chạy một mạch: bấm TẠO PHIM TỰ ĐỘNG một lần, phần mềm tự đi hết từ chia đoạn đến dựng phim. Đóng app rồi mở lại thì phim đang làm tự chạy tiếp, không phải bấm lại.",
-    "Một vài cảnh vẽ mãi không ra thì được gác lại để làm tiếp những cảnh khác rồi quay lại sau — một cảnh khó không còn dừng cả phim.",
-    "Tài khoản Flow hỏng liên tiếp được nghỉ một lát rồi tự nhận việc lại, không phải tắt bật app. Làm mới tài khoản nhanh hơn hẳn: bỏ hai khoảng chờ cho những thứ Google đã ngừng trả.",
-    "Tên thư mục có ký tự Windows không cho phép thì báo ngay lúc chọn và chỉ đúng ký tự sai, thay vì chạy một lúc rồi báo một câu tiếng Anh khó hiểu."
+    "Mở app thì Auto Film đứng chờ, bấm Tiếp tục mới chạy. Bản 3.0.39 tự chạy ngay khi mở app — lỗi đó đã sửa. Đóng app rồi mở lại cũng phải bấm Tiếp tục; bấm Tạm dừng hay Dừng là dừng thật.",
+    "Bấm một lần là đi hết. Trong suốt lượt chạy, gặp sự cố thì phần mềm tự chữa và không hiện thông báo bắt bấm: lùi nhịp rồi làm lại công đoạn hỏng, tự gỡ kẹt khi tiến độ đứng yên, tự quay về vẽ ảnh nếu dựng phim còn thiếu ảnh. Ảnh đã xong không bị vẽ lại.",
+    "Chế độ Tự động A–Z không còn nút Xử lý thủ công. Chế độ Tôi tự bấm từng bước giữ nguyên đầy đủ các nút.",
+    "Ảnh lỗi được chuyển sang ChatGPT Image 2 đúng quy trình. Trước đây một loại lỗi rất hay gặp của Flow không được tính là đủ điều kiện chuyển nên hàng nằm chết ở Lỗi. Phần mềm cũng không sửa prompt quá sớm nữa — chỉ sửa sau khi ChatGPT Image 2 đã thử mà vẫn không ra ảnh."
   ],
-  "published_at": "2026-10-19T15:37:55+00:00",
+  "published_at": "2026-10-20T02:57:31+00:00",
   "mandatory": false
 }
