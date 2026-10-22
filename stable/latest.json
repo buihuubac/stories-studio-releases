@@ -1,18 +1,20 @@
 {
-  "version": "3.0.40",
+  "version": "3.0.44",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.40.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.40/Stories-Studio-Setup-v3.0.40.exe",
-    "sha256": "a27197c8d218e385449e23bd3ae0b40e27eb60deda9ae9d011beb547fd5de8d3",
-    "size": 446778739
+    "name": "Stories-Studio-Setup-v3.0.44.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.44/Stories-Studio-Setup-v3.0.44.exe",
+    "sha256": "642996b5de1857ac9b1429c4371f6c7eef54d8205d24b2d053afaea50c3a5a20",
+    "size": 446833516
   },
   "notes": [
-    "Mở app thì Auto Film đứng chờ, bấm Tiếp tục mới chạy. Bản 3.0.39 tự chạy ngay khi mở app — lỗi đó đã sửa. Đóng app rồi mở lại cũng phải bấm Tiếp tục; bấm Tạm dừng hay Dừng là dừng thật.",
-    "Bấm một lần là đi hết. Trong suốt lượt chạy, gặp sự cố thì phần mềm tự chữa và không hiện thông báo bắt bấm: lùi nhịp rồi làm lại công đoạn hỏng, tự gỡ kẹt khi tiến độ đứng yên, tự quay về vẽ ảnh nếu dựng phim còn thiếu ảnh. Ảnh đã xong không bị vẽ lại.",
-    "Chế độ Tự động A–Z không còn nút Xử lý thủ công. Chế độ Tôi tự bấm từng bước giữ nguyên đầy đủ các nút.",
-    "Ảnh lỗi được chuyển sang ChatGPT Image 2 đúng quy trình. Trước đây một loại lỗi rất hay gặp của Flow không được tính là đủ điều kiện chuyển nên hàng nằm chết ở Lỗi. Phần mềm cũng không sửa prompt quá sớm nữa — chỉ sửa sau khi ChatGPT Image 2 đã thử mà vẫn không ra ảnh."
+    "Auto Film chạy A–Z liền mạch tới ảnh bìa: dựng xong phim là phần mềm tự phân tích truyện, tự viết ý tưởng, tự vẽ ảnh bìa AI 1280×720 bằng ChatGPT Image 2 rồi lưu vào phim. Không phải bấm gì, không phải chọn ảnh trong các cảnh. Phim đã xong từ trước mà thiếu ảnh bìa thì được bổ sung, không dựng lại phim.",
+    "Phần Ảnh bìa YouTube gọn lại: một ảnh và ba nút Tạo lại, Tải PNG, Tải JPG. Đã bỏ các dòng chữ kỹ thuật và ảnh hiện trùng.",
+    "Dọn Dẹp Media làm thật và báo thật: xử lý từng ảnh, kiểm kết quả, báo đúng số thành công và thất bại, giữ bản gốc để khôi phục. Máy chưa cài môi trường thì nói rõ, không âm thầm bỏ qua.",
+    "Dựng phim dài ổn định với FFmpeg 9.0.1 trong gói, không còn lỗi Option not found; không thử lại mù khi lỗi chắc chắn hỏng và không ghi đè MP4 đang tốt bằng kết quả lỗi.",
+    "Viết kịch bản: bấm Tạm dừng là dừng thật ở Chuyển thể truyện Trung Quốc và Series; bấm Chạy tiếp thì đi tiếp từ chỗ đang dở, không viết lại những bước đã xong — tiết kiệm bốn lượt AI mỗi lần.",
+    "Nạp kho mẫu YouTube không còn kẹt ở Đang chờ. Mở phần mềm khi cổng quen đang bận thì nó tự chọn cổng khác thay vì tắt tiến trình khác của máy."
   ],
-  "published_at": "2026-10-20T02:57:31+00:00",
+  "published_at": "2026-10-22T04:39:50+00:00",
   "mandatory": false
 }
