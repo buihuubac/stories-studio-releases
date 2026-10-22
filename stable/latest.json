@@ -1,18 +1,18 @@
 {
-  "version": "3.0.45",
+  "version": "3.0.46",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.45.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.45/Stories-Studio-Setup-v3.0.45.exe",
-    "sha256": "aab68406352168a81bcbfd2c45a02d53c57432e3068642d3ee7a8427dd040d91",
-    "size": 446829335
+    "name": "Stories-Studio-Setup-v3.0.46.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.46/Stories-Studio-Setup-v3.0.46.exe",
+    "sha256": "5129fe11c5ac02f59c433339a6faa827f4c1bae3dd426b96133a00d43143aefa",
+    "size": 714773218
   },
   "notes": [
-    "Màn hình không còn nói hai điều trái ngược. Trước đây một phim đang vẽ ảnh có thể hiện \"Đang chạy\" ở thanh trên cùng lúc phần Vẽ ảnh bên dưới hiện \"Đã dừng\" — hai chỗ đó tự tính lấy chữ trạng thái bằng hai cách khác nhau.",
-    "Nay chỉ còn MỘT trạng thái do phần mềm tính, mọi chỗ đều đọc lại nó: Đang chạy · Đang chờ · Đang tạm dừng · Đã tạm dừng · Đã dừng · Lỗi · Hoàn tất. Hai nút Tạm dừng và Tiếp tục cũng theo đúng trạng thái đó.",
-    "Nếu phần điều phối đã dừng mà hàng đợi vẫn còn vẽ nốt, phần mềm nói thẳng: \"Đã dừng: <lý do> — hàng đợi còn N ảnh đang vẽ\".",
-    "Sửa một lỗi tranh chấp khiến cờ \"đã dừng\" của lượt chạy cũ ghi đè lên lượt đang chạy, làm phim đang chạy bị báo là đã dừng."
+    "AI Inpaint (LaMa) nay có sẵn trong bộ cài. Không phải vào Cài đặt để tải thêm, không phải cài Python hay torch, không cần mạng để tải model — tất cả đi kèm bộ cài.",
+    "Chọn AI Inpaint mà máy chưa chạy được LaMa thì phần mềm DỪNG cả lượt và nói rõ, thay vì lặng lẽ chuyển sang OpenCV Inpaint rồi ghi đè ảnh gốc bằng bản chất lượng thấp.",
+    "Dọn lại một ảnh đã dọn nay lấy BẢN GỐC làm nguồn, không chồng lên bản đã xoá logo. Mỗi ảnh ghi lại engine thật đã xử lý nó.",
+    "Kho mẫu: đợt nạp đang dở nay tự chạy tiếp khi mở lại ứng dụng hoặc khi dịch vụ nền khởi động lại, không phải bấm lại. Không tạo hàng đợi trùng, không làm lại link đã xong."
   ],
-  "published_at": "2026-10-22T07:05:19+00:00",
+  "published_at": "2026-10-22T14:26:45+00:00",
   "mandatory": false
 }
