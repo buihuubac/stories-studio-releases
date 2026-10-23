@@ -1,18 +1,17 @@
 {
-  "version": "3.0.46",
+  "version": "3.0.47",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.46.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.46/Stories-Studio-Setup-v3.0.46.exe",
-    "sha256": "5129fe11c5ac02f59c433339a6faa827f4c1bae3dd426b96133a00d43143aefa",
-    "size": 714773218
+    "name": "Stories-Studio-Setup-v3.0.47.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.47/Stories-Studio-Setup-v3.0.47.exe",
+    "sha256": "daa4882168bafbfeb400ef9d8b05e8da9fd0bb758da494671a6e69ddc6ff128d",
+    "size": 714780404
   },
   "notes": [
-    "AI Inpaint (LaMa) nay có sẵn trong bộ cài. Không phải vào Cài đặt để tải thêm, không phải cài Python hay torch, không cần mạng để tải model — tất cả đi kèm bộ cài.",
-    "Chọn AI Inpaint mà máy chưa chạy được LaMa thì phần mềm DỪNG cả lượt và nói rõ, thay vì lặng lẽ chuyển sang OpenCV Inpaint rồi ghi đè ảnh gốc bằng bản chất lượng thấp.",
-    "Dọn lại một ảnh đã dọn nay lấy BẢN GỐC làm nguồn, không chồng lên bản đã xoá logo. Mỗi ảnh ghi lại engine thật đã xử lý nó.",
-    "Kho mẫu: đợt nạp đang dở nay tự chạy tiếp khi mở lại ứng dụng hoặc khi dịch vụ nền khởi động lại, không phải bấm lại. Không tạo hàng đợi trùng, không làm lại link đã xong."
+    "Dọn Dẹp Media: sửa lỗi AI Inpaint báo lỗi ở toàn bộ ảnh trên bản 3.0.46. Phần mềm từng chọn nhầm bản Python để chạy AI Inpaint, nay nạp thử đủ thư viện trước khi nhận và ưu tiên đúng bản Python đi kèm bộ cài.",
+    "Dọn Dẹp Media không còn báo sẵn sàng chỉ vì thư viện có trên đĩa. Máy nào chưa chạy được AI Inpaint thì lượt dọn hàng loạt dừng và nói rõ lý do, không ảnh gốc nào bị ghi đè.",
+    "Dọn Dẹp Media nhanh hơn nhiều với thư mục lớn: một tiến trình dùng chung cho cả lượt, mô hình nạp đúng một lần thay vì nạp lại cho từng ảnh."
   ],
-  "published_at": "2026-10-22T14:26:45+00:00",
+  "published_at": "2026-10-23T02:49:31+00:00",
   "mandatory": false
 }
