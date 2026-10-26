@@ -1,17 +1,15 @@
 {
-  "version": "3.0.47",
+  "version": "3.0.48",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.47.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.47/Stories-Studio-Setup-v3.0.47.exe",
-    "sha256": "daa4882168bafbfeb400ef9d8b05e8da9fd0bb758da494671a6e69ddc6ff128d",
-    "size": 714780404
+    "name": "Stories-Studio-Setup-v3.0.48.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.48/Stories-Studio-Setup-v3.0.48.exe",
+    "sha256": "4d7c794ceb31aff5ba1dc71deaa1aba5dd221085c604cfb9ae9abe6ab5ae89be",
+    "size": 714777252
   },
   "notes": [
-    "Dọn Dẹp Media: sửa lỗi AI Inpaint báo lỗi ở toàn bộ ảnh trên bản 3.0.46. Phần mềm từng chọn nhầm bản Python để chạy AI Inpaint, nay nạp thử đủ thư viện trước khi nhận và ưu tiên đúng bản Python đi kèm bộ cài.",
-    "Dọn Dẹp Media không còn báo sẵn sàng chỉ vì thư viện có trên đĩa. Máy nào chưa chạy được AI Inpaint thì lượt dọn hàng loạt dừng và nói rõ lý do, không ảnh gốc nào bị ghi đè.",
-    "Dọn Dẹp Media nhanh hơn nhiều với thư mục lớn: một tiến trình dùng chung cho cả lượt, mô hình nạp đúng một lần thay vì nạp lại cho từng ảnh."
+    "Sua loi ChatGPT dang dang nhap nhung bao chua dang nhap: loi ket noi/timeout/het luot khong con bi doc thanh loi dang nhap, va he thong tu cho roi chay tiep thay vi dung giua chung."
   ],
-  "published_at": "2026-10-23T02:49:31+00:00",
+  "published_at": "2026-10-25T13:51:40+00:00",
   "mandatory": false
 }
