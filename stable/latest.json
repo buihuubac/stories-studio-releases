@@ -1,15 +1,15 @@
 {
-  "version": "3.0.48",
+  "version": "3.0.55",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.48.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.48/Stories-Studio-Setup-v3.0.48.exe",
-    "sha256": "4d7c794ceb31aff5ba1dc71deaa1aba5dd221085c604cfb9ae9abe6ab5ae89be",
-    "size": 714777252
+    "name": "Stories-Studio-Setup-v3.0.55.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.55/Stories-Studio-Setup-v3.0.55.exe",
+    "sha256": "2e00c46ba212cccfd175b740ea5490a788af3c2a7c9a81092a204bc5aa1f843d",
+    "size": 639446917
   },
   "notes": [
-    "Sua loi ChatGPT dang dang nhap nhung bao chua dang nhap: loi ket noi/timeout/het luot khong con bi doc thanh loi dang nhap, va he thong tu cho roi chay tiep thay vi dung giua chung."
+    "Anh cuoi cung cua mot tap khong con ket vinh vien; tai khoan Flow khong con bi doi dang nhap lai vo co (141 lan oan / 9 lan that); tu dang nhap lai ngam bang mat khau da luu; prompt mot canh hong duoc tu sua dung luc."
   ],
-  "published_at": "2026-10-25T13:51:40+00:00",
+  "published_at": "2026-11-05T03:22:03+00:00",
   "mandatory": false
 }
