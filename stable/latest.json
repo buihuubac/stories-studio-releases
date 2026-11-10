@@ -1,15 +1,15 @@
 {
-  "version": "3.0.55",
+  "version": "3.0.57",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.55.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.55/Stories-Studio-Setup-v3.0.55.exe",
-    "sha256": "2e00c46ba212cccfd175b740ea5490a788af3c2a7c9a81092a204bc5aa1f843d",
-    "size": 639446917
+    "name": "Stories-Studio-Setup-v3.0.57.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.57/Stories-Studio-Setup-v3.0.57.exe",
+    "sha256": "132178648d57f9ed80f2c54a9afc6cde38d2681d8d81c1aa81d847920e6e7c91",
+    "size": 639506430
   },
   "notes": [
-    "Anh cuoi cung cua mot tap khong con ket vinh vien; tai khoan Flow khong con bi doi dang nhap lai vo co (141 lan oan / 9 lan that); tu dang nhap lai ngam bang mat khau da luu; prompt mot canh hong duoc tu sua dung luc."
+    "Nhung anh cuoi cung cua mot tap ve duoc het (khong con dung mai o 'con 7'); Chrome khong con mo cua so vo toi va va khong cuop man hinh; app muot hon khi kho lon; Auto Film chay mot mach."
   ],
-  "published_at": "2026-11-05T03:22:03+00:00",
+  "published_at": "2026-11-10T08:24:12+00:00",
   "mandatory": false
 }
