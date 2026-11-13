@@ -1,15 +1,15 @@
 {
-  "version": "3.0.58",
+  "version": "3.0.59",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.58.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.58/Stories-Studio-Setup-v3.0.58.exe",
-    "sha256": "48075f0fbec09074a3d71dfc2bfa7a57ad5ac8e1df02cb82994a0cf4ce62d4c8",
-    "size": 639481533
+    "name": "Stories-Studio-Setup-v3.0.59.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.59/Stories-Studio-Setup-v3.0.59.exe",
+    "sha256": "10c390d35a0fd82c89da10032dddb60e73c607efc5cc9fe07f6b74d2c0168ca3",
+    "size": 639544534
   },
   "notes": [
-    "Tao anh Flow chay nhu Auto Film: anh Flow khong con bi tu day sang GPT roi bao Loi; tai khoan khong con bi chinh Chrome cua no chan; Series: goi y tieu de khong bi cat 100 giay, bao nhieu tieu de cung tao duoc."
+    "Ve anh Flow khong con mac ket: nhan ra Google bao 'hoi qua nhanh' va cho tai khoan nghi; viec moi khong con don cho 1-2 tai khoan; anh bia Auto Film khong con dung 'Dang tao' mai."
   ],
-  "published_at": "2026-11-12T10:42:00+00:00",
+  "published_at": "2026-11-13T05:09:12+00:00",
   "mandatory": false
 }
