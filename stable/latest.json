@@ -1,15 +1,15 @@
 {
-  "version": "3.0.59",
+  "version": "3.0.60",
   "channel": "stable",
   "installer": {
-    "name": "Stories-Studio-Setup-v3.0.59.exe",
-    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.59/Stories-Studio-Setup-v3.0.59.exe",
-    "sha256": "10c390d35a0fd82c89da10032dddb60e73c607efc5cc9fe07f6b74d2c0168ca3",
-    "size": 639544534
+    "name": "Stories-Studio-Setup-v3.0.60.exe",
+    "url": "https://github.com/buihuubac/stories-studio-releases/releases/download/v3.0.60/Stories-Studio-Setup-v3.0.60.exe",
+    "sha256": "3a60c98c68d298fb756ad0967634c8a27737e12486ac449030c536d769a13918",
+    "size": 639536530
   },
   "notes": [
-    "Ve anh Flow khong con mac ket: nhan ra Google bao 'hoi qua nhanh' va cho tai khoan nghi; viec moi khong con don cho 1-2 tai khoan; anh bia Auto Film khong con dung 'Dang tao' mai."
+    "Tao giong doc: nut 'Cai ban dung card do hoa' nay tai that ban PyTorch dung card NVIDIA (RTX 50xx: CUDA 12.8), cai xong tu kiem lai; driver qua cu thi noi ro."
   ],
-  "published_at": "2026-11-13T05:09:12+00:00",
+  "published_at": "2026-11-13T08:46:47+00:00",
   "mandatory": false
 }
